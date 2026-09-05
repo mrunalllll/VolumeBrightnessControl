@@ -59,7 +59,8 @@ python main.py
 
 Mrunal Kiran Bhimarapu
 
-Computer Science Engineering Student
+Computer Science Engineering AIML Student
+
 
 ## ⭐ Support
 
