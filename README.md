@@ -20,9 +20,6 @@ Control your Windows system volume using hand gestures detected through your lap
 * NumPy
 * Pycaw
 
-## 📷 Project Demo
-
-Add screenshots and GIFs inside the `screenshots` and `assets` folders.
 
 ## 📦 Installation
 
