@@ -58,7 +58,6 @@ Mrunal Kiran Bhimarapu
 
 Computer Science Engineering AIML Student
 
-
 ## ⭐ Support
 
 If you like this project, please give it a star on GitHub.
