@@ -1,7 +1,6 @@
 # 🎛️ AI Hand Gesture Volume Control
 
 Control your Windows system volume using hand gestures detected through your laptop webcam.
-
 ## 🚀 Features
 
 * Real-time hand tracking using MediaPipe
